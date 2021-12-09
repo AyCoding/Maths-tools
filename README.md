@@ -9,8 +9,8 @@ ___
 
 ## Installation
 ```
-$ git clone https://github.com/AyCoding/Maths-tools.git
-$ cd Maths-tools
+git clone https://github.com/AyCoding/Maths-tools.git
+cd Maths-tools
 ```
 ___
 
@@ -18,6 +18,6 @@ ___
 
 #### Calcul delta
 ```
-$ pip install math
+pip install math
 ```
 ___
